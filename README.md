@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamSadek
-- 👀 I’m interested in programming specifically Java, Node.js, React Native.
+- 👀 I’m interested in programming specifically Java, JavaScript, HTML, CSS, Node.js, React Native.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
